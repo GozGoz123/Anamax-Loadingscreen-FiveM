@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-<audio id="loading" src="assets/music/music.mp3" autoplay="true" hidden="true" loop="true"></audio>
+<audio id="loading" src="https://youtu.be/CJUCndD_hsk?si=L-A7n-ZCy73wC0b5&t=11" autoplay="true" hidden="true" loop="true"></audio>
 <div class="hero-section">	
 		<div class="information-text hover-target">Information</div>
 		<div class="discord-text hover-target">Discord</div>
@@ -14,7 +14,7 @@
 			<div class="container-fluid">
 				<div class="row justify-content-center">
 					<div class="col-12 text-center">
-						<h1>SERVER NAME</h1>
+						<h1>PorscheRP</h1>
 					</div>
 					<div class="col-12 text-center mt-4 mt-lg-5">
 						<p>
